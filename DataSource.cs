@@ -1,6 +1,6 @@
 namespace pattern_observer
 {
-    public class DataSource
+    public class DataSource : Subject
     {
         private int _data;
         public int Data
@@ -12,6 +12,7 @@ namespace pattern_observer
             set
             {
                 _data = value;
+                NotifyObserver();
             }
         }
     }

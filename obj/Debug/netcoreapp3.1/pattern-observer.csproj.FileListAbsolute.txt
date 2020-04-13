@@ -1,0 +1,13 @@
+C:\projects\dotnet\pattern-observer\bin\Debug\netcoreapp3.1\pattern-observer.exe
+C:\projects\dotnet\pattern-observer\bin\Debug\netcoreapp3.1\pattern-observer.deps.json
+C:\projects\dotnet\pattern-observer\bin\Debug\netcoreapp3.1\pattern-observer.runtimeconfig.json
+C:\projects\dotnet\pattern-observer\bin\Debug\netcoreapp3.1\pattern-observer.runtimeconfig.dev.json
+C:\projects\dotnet\pattern-observer\bin\Debug\netcoreapp3.1\pattern-observer.dll
+C:\projects\dotnet\pattern-observer\bin\Debug\netcoreapp3.1\pattern-observer.pdb
+C:\projects\dotnet\pattern-observer\obj\Debug\netcoreapp3.1\pattern-observer.csprojAssemblyReference.cache
+C:\projects\dotnet\pattern-observer\obj\Debug\netcoreapp3.1\pattern-observer.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\pattern-observer\obj\Debug\netcoreapp3.1\pattern-observer.AssemblyInfoInputs.cache
+C:\projects\dotnet\pattern-observer\obj\Debug\netcoreapp3.1\pattern-observer.AssemblyInfo.cs
+C:\projects\dotnet\pattern-observer\obj\Debug\netcoreapp3.1\pattern-observer.dll
+C:\projects\dotnet\pattern-observer\obj\Debug\netcoreapp3.1\pattern-observer.pdb
+C:\projects\dotnet\pattern-observer\obj\Debug\netcoreapp3.1\pattern-observer.genruntimeconfig.cache
